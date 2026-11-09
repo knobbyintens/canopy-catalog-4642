@@ -20,3 +20,5 @@ Surface sediment samples collected at 214 monitored river reaches. The table com
 ## Licence
 
 CC-BY-SA-4.0. Share-alike terms apply to derivative tables.
+
+This dataset is redistributed under the terms of its dataset card license. © 2026 Canopy Analytics.
