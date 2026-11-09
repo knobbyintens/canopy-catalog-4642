@@ -20,3 +20,5 @@ Street and park tree inventory for the 2025 municipal survey cycle, including sp
 ## Licence
 
 CC0-1.0. No rights reserved.
+
+This dataset is redistributed under the terms of its dataset card license. © 2026 Canopy Analytics.
