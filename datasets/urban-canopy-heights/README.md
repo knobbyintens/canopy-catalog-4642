@@ -20,5 +20,3 @@ Per-city tree canopy height layers derived from aerial LiDAR and stereo imagery,
 ## Licence
 
 CC-BY-4.0. Attribution is required when redistributing derived products.
-
-This dataset is redistributed under the terms of its dataset card license. © 2026 Canopy Analytics.
