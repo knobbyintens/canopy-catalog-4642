@@ -20,3 +20,5 @@ Point-count surveys of riparian bird communities recorded during the spring and 
 ## Licence
 
 CC-BY-4.0. Attribution is required when redistributing derived products.
+
+This dataset is redistributed under the terms of its dataset card license. © 2026 Canopy Analytics.
